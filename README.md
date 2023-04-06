@@ -1,10 +1,10 @@
-# Stok Automation - 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝓶𝓮𝓻𝓽 𝓭𝓮𝓶𝓲𝓻
+# Basic Calculator - 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝓶𝓮𝓻𝓽 𝓭𝓮𝓶𝓲𝓻
  
 ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ 𝟸ɴᴅ ʏᴇᴀʀ ᴇɴᴅ ᴏғ ᴛᴇʀᴍ ᴘʀᴏᴊᴇᴄᴛ
  
 ⭐ This GitHub repository contains some of the projects that I worked on when I was a sophomore computer engineering student. ⭐
 
-⭐ This project was developed in approximately 1 hour. ⭐
+⭐ This project was developed in about 15 minutes. ⭐
  
 ⭐ You can also contribute to and support this project. Have a nice day, everyone! ⭐
 
