@@ -1,0 +1,11 @@
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\mertd\OneDrive\Belgeler\C#\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form.resources
